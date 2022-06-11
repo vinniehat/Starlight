@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starlight.Web", "Starlight.Web\Starlight.Web.csproj", "{5C96AAAC-AF41-4902-A3CB-FF088109478F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starlight.Domain", "Starlight.Domain\Starlight.Domain.csproj", "{D72A7E09-15D9-4A3E-BEB0-432F4A5F27FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starlight.Database", "Starlight.Database\Starlight.Database.csproj", "{FCAC3F6E-4E68-4F74-9275-B3BBE7575468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C96AAAC-AF41-4902-A3CB-FF088109478F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C96AAAC-AF41-4902-A3CB-FF088109478F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C96AAAC-AF41-4902-A3CB-FF088109478F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C96AAAC-AF41-4902-A3CB-FF088109478F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72A7E09-15D9-4A3E-BEB0-432F4A5F27FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72A7E09-15D9-4A3E-BEB0-432F4A5F27FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72A7E09-15D9-4A3E-BEB0-432F4A5F27FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72A7E09-15D9-4A3E-BEB0-432F4A5F27FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAC3F6E-4E68-4F74-9275-B3BBE7575468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAC3F6E-4E68-4F74-9275-B3BBE7575468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAC3F6E-4E68-4F74-9275-B3BBE7575468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAC3F6E-4E68-4F74-9275-B3BBE7575468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
